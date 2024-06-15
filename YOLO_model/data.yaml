@@ -1,6 +1,6 @@
-train: ..\docs\nude_datas\test\images
+train: ..\docs\nude_datas\train\images
 val: ..\docs\nude_datas\test\images
-test: ..\docs\nude_datas\test\images
+#test: ..\docs\nude_datas\test\images
 
 nc: 5
 names: ['adj', 'int', 'geo', 'pro', 'non']
