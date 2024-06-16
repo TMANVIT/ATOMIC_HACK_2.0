@@ -7,3 +7,5 @@ docs/nude_datas/val/images/*
 *.pt
 *.torchscript
 *.csv
+
+yolov8n.pt
