@@ -1,3 +1,9 @@
 docs/nude_datas/train/images/*
 docs/nude_datas/test/images/*
-.ini
+docs/nude_datas/val/images/*
+
+*.ini
+*.jpg
+*.pt
+*.torchscript
+*.csv
